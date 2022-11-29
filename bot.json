@@ -1,0 +1,68 @@
+[
+  {
+    "response_type": "greeting",
+    "user_input": ["hello", "hi", "hey", "hlo", "hii", "helloo", "yo"],
+    "bot_response": ["Hey there!", "helloo!", "yo", "hiii !!"],
+    "required_words": []
+  },
+  {
+    "response_type": "greeting",
+    "user_input": ["see you", "goodbye", "bye", "byee"],
+    "bot_response": ["See you later!", "Bye byee"],
+    "required_words": []
+  },
+  {
+    "response_type": "greeting",
+    "user_input": ["nice", "to", "meet", "you"],
+    "bot_response": ["The pleasure is all mine!", "nice to meet you too"],
+    "required_words": ["nice", "meet", "you"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["how", "to", "learn", "code", "coding", "apps"],
+    "bot_response": [
+      "Start by typing: 'How to learn coding' on Google.",
+      "you can learn from the internet"
+    ],
+    "required_words": ["learn", "code"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["refund", "how", "can", "I", "get"],
+    "bot_response": [
+      "We don't offer refunds for free education.",
+      "Sorry, there is no refund policy"
+    ],
+    "required_words": ["refund", "i"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["how", "are", "you"],
+    "bot_response": ["I'm great! Thanks for asking."],
+    "required_words": ["how", "are", "you"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["do", "you", "like", "coffee"],
+    "bot_response": ["I like to eat RAM only , hihi !"],
+    "required_words": ["coffee", "you", "like"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["what", "are", "your", "hobbies"],
+    "bot_response": ["I like to get more and more updrades"],
+    "required_words": ["what", "your", "hobbies"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["do", "you", "have", "any", "hobby"],
+    "bot_response": ["I like to help people :-)"],
+    "required_words": ["do", "you", "any", "hobby"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["there", "is", "a", "problem", "with", "app"],
+    "bot_response": ["Please contact the developer at +91 78884 72926"],
+    "required_words": ["there", "is", "a", "problem", "app"]
+  }
+]
