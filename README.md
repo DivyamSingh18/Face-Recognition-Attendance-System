@@ -20,5 +20,5 @@ The assistant window
 ![image](https://user-images.githubusercontent.com/64833579/204650608-02b14c46-546a-4037-b57c-3e16a42d64dd.png)
 
 The feedback window<br>
-![image](https://user-images.githubusercontent.com/64833579/204650687-588a12dc-66f0-41d3-ad62-36c511eb53fa.png)
+![image](https://user-images.githubusercontent.com/64833579/204651604-780f8cff-6398-4bb3-b2bc-951d5533d4aa.png)
 
