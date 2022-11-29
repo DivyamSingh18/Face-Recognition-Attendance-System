@@ -1,1 +1,1 @@
-this folder should idiolly be empy , so delete this file.
+this folder should be empy , so delete this file.
