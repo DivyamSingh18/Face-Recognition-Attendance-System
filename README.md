@@ -1,5 +1,7 @@
 # Face-Recognition-Attendance-System
 
+> In this Project, when you turn on the web cam, it recognizes the face and marks the attendance of the person. It also has a rule-based chatbot and a sentiment analysed feedback section. 
+
 ## This is how the project looks like:
 
 The Home window
