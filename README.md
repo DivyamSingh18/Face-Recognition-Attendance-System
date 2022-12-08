@@ -22,3 +22,9 @@ The assistant window
 The feedback window<br>
 ![image](https://user-images.githubusercontent.com/64833579/204651604-780f8cff-6398-4bb3-b2bc-951d5533d4aa.png)
 
+<hr>
+
+
+## Taking Attendance !!
+
+![image](https://user-images.githubusercontent.com/64833579/206478954-4eb3a71d-f512-4f4b-a470-bdb9309d0bcd.png)
